@@ -1,0 +1,114 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp-Editor\\Assembly-CSharp-Editor.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp-Editor\\Assembly-CSharp-Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp-Editor\\Assembly-CSharp-Editor.csproj",
+        "projectName": "Assembly-CSharp-Editor",
+        "projectPath": "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp-Editor\\Assembly-CSharp-Editor.csproj",
+        "packagesPath": "C:\\Users\\Michael Ramirez\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp-Editor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Michael Ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+                "projectPath": "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp\\Assembly-CSharp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Unity.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\Michael Ramirez\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Michael Ramirez\\Downloads\\ml-agents-release_20\\ml-agents-release_20\\Project\\CSharpProjFolders\\Assembly-CSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Michael Ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Unity.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
